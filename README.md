@@ -3,4 +3,4 @@ this branch master
 
 ## contacts
 
-Email : sarsri.imran@.com
+Email : sarsri.imran@gmail.com
